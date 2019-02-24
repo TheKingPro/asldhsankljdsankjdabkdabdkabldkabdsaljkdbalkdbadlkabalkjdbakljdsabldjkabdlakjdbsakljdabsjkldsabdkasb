@@ -2473,4 +2473,4 @@ client.on('message', function(message) {
 	}
 });
 })
-client.login(process.env.BOT_TOKEN);
+client.login('NTQ5MjgyMDIyMDk1MzIzMTQ4.D1RmZg.L147RXyt03Mpgtu7XP8VAeuI1ug');
